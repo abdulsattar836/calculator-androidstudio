@@ -11,4 +11,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="purple">#d602ee</color>
     <color name="gray">#1b2631   </color>
+    <color name="deep_white">#c8c8c8</color>
+    <color name="dark_white">#898181</color>
+    <color name="light_white">#a59e9e</color>
 </resources>
